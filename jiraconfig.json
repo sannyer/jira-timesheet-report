@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://jira.yourcompany.com/",
+  "user": "user",
+  "pass": "****"
+}
