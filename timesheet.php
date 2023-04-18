@@ -1,8 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: smiglecz
- * Date: 4/17/18
+  * Date: 4/17/18
  * Time: 10:44 AM
  */
 
