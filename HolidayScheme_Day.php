@@ -1,7 +1,6 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: smiglecz
  * Date: 5/18/18
  * Time: 10:38 AM
  */
